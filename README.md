@@ -9,7 +9,7 @@ vault write secret/path/to/write key1=value1 key2=value2
 ## Installation
 
 ```
-go get -u github.com/serhatck/vault-export
+go get -u github.com/serhatcetinkaya/vault-export
 ```
 
 In order to use vault-export you should provide a configuration file with vault addr and token to your vault cluster:
